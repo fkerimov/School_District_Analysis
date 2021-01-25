@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis Challenge
 ## Project Overview
 School board has requested performance analysis of district schools on math and reading tests for students from 9th to 12th grades. After the first analysis was complete in accordance with all the requirements, it was revealed one of the schools detected academic dishonesty. The reading and math scores for ningth graders at Thomas High School were altered. Following this discovery, the board commissioned another analysis of the data, this time by removing the results of reading and math tests of ninth graders and Thomas High School from the analysis. 
 
