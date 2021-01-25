@@ -37,9 +37,9 @@ Given that the removal of scores of 461 9th graders were accounted for in the ca
 
 ### Effect of the corrections on the following metrics: 
 * Math and reading scores by grade: THS's 9th graders scores were replaced by null values as follows
-* Scores by school spending: analysis shows no changes
-* Scores by school size: analysis shows no changes
-* Scores by school type: analysis shows no changes
+* Scores by school spending: analysis shows no significant changes
+* Scores by school size: analysis shows no significant changes
+* Scores by school type: analysis shows no significant changes
 
 Probable cause of no changes: because the number of 9th graders at THS was subtracted from the total students count, and a new total student's count was used. Therefore, the metrics remain unchanged. 
 
