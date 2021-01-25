@@ -21,7 +21,7 @@ Only minor discrepancies in the "Average Math Score", "% Passing Math", "% Passi
 * THS school summary with the THS 9th grade scores included:
 ![ths_metrics_pre_correction](Resources/ths_metrics_pre_correction.png)
 
-* THS school symmary with the THS 9th grade scores removed:
+* THS school summary with the THS 9th grade scores removed:
 ![ths_metrics_post_correction](Resources/ths_metrics_post_correction.png)
 
 Following the removal of scores of 461 9th graders, THS saw an increase in the rate of students with passing scores in math, reading, and both math and reading tests. The passing rates at THS are lower with the 9th grader’s scores included: 66.9% in math, 69.6% in reading, and 65% overall. THS’ performance after the removal of the instances of academic dishonesty in the 9th grade tests shows a significant increase in the passing rates: 93.1% of students passed math, 97% passed reading, and over 90% passed overall.
