@@ -37,11 +37,11 @@ Given that the removal of scores of 461 9th graders were accounted for in the ca
 
 ### Effect of the corrections on the following metrics: 
 * Math and reading scores by grade: THS's 9th graders scores were replaced by null values as follows
-* Scores by school spending: analysis shows no significant changes
+* Scores by school spending: analysis shows small but insignificant changes in the math test averages and passing percentages.
 * Scores by school size: analysis shows no significant changes
 * Scores by school type: analysis shows no significant changes
 
 Probable cause of no changes: because the number of 9th graders at THS was subtracted from the total students count, and a new total student's count was used. Therefore, the metrics remain unchanged. 
 
 ## Summary: 
-After the replacement of THS 9th grader's scores with null values, we saw changes in the passing rates at THS in math, reading, and overall passing rates. Although we would expect there to be more changes in the metrics, there weren't any changes in the metrics because the 461 9thgraders were subtracted from the total count of students and a new total was used in the calculations. 
+After the replacement of THS 9th grader's scores with null values, we saw changes in the passing rates at THS in math, reading, and overall passing rates, and a small, insisignificant change in the scores grouped by spending. Although we would expect there to be more changes in the metrics, there weren't any changes in the metrics because the 461 9thgraders were subtracted from the total count of students and a new total was used in the calculations. 
